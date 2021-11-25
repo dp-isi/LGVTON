@@ -4,6 +4,10 @@ LGVTON: A Landmark Guided Approach for Model to Person Virtual Try-On
 This repository contains the Keras implementation of LGVTON (accepted for publication in Multimedia Tools and Applications journal)
 
 This is an inference code. 
+The checkpoints and a sample dataset with some annotated sample fashion landmarks on the MPV dataset is upload at,
+
+https://drive.google.com/drive/folders/1mxRZ9sa8EeUEJPbSgEpUoX9o0yrzvKeS?usp=sharing
+
 Test code:
 bash run.sh
 
