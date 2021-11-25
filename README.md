@@ -6,7 +6,7 @@ This repository contains the Keras implementation of LGVTON (accepted for public
 This is an inference code. 
 The checkpoints and a sample dataset with some annotated sample fashion landmarks on the MPV dataset is upload at,
 
-https://drive.google.com/drive/folders/1mxRZ9sa8EeUEJPbSgEpUoX9o0yrzvKeS?usp=sharing
+https://drive.google.com/drive/folders/1v8ORGRVbTVsE9Mcw6JVxpintEfKLH3HR?usp=sharing
 
 Test code:
 bash run.sh
