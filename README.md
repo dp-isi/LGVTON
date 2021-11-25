@@ -3,13 +3,9 @@ LGVTON: A Landmark Guided Approach for Model to Person Virtual Try-On
 
 This repository contains the Keras implementation of LGVTON (accepted for publication in Multimedia Tools and Applications journal)
 
-Training details:
---------------------
-
-
-Test details:
----------------------
-
+This is an inference code. 
+Test code:
+bash run.sh
 
 
 
